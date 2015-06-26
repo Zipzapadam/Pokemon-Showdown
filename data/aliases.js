@@ -302,6 +302,7 @@ exports.BattleAliases = {
 	"scoli": "Scolipede",
 	"skarm": "Skarmory",
 	"smogon": "Koffing",
+	"smogonbird": "Talonflame",
 	"sui": "Suicune",
 	"talon": "Talonflame",
 	"terra": "Terrakion",
@@ -314,6 +315,7 @@ exports.BattleAliases = {
 	"ohmagod":"Plasmanta",
 
 	// moves
+	"bd": "Belly Drum",
 	"bpass": "Baton Pass",
 	"bp": "Baton Pass",
 	"cc": "Close Combat",
